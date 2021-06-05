@@ -104,6 +104,7 @@ def guardando_a(fich,valor):
 
 
 #Programaprincipal
+#Se extraen los datos de la población del equipo local y visitante para cada partido
 now=time.localtime(time.time())
 print('Comienza elprograma'+time.strftime("%c",now))
 time.sleep(1)
