@@ -1,0 +1,7 @@
+1)Acceder a https://www.flashscore.com/football/england/premier-league-2018-2019/results/, mostrar todos los partidos
+ y guardar la página como archivo único .mhtml.
+2)Modificar el cmd partidos_liga.cmd con el fichero de entrada (1), de salida y driver de Chrome  (Requiere instalar webdriver de Chrome y Python) y ejecutar.
+
+3)Acceder a https://www.football-data.co.uk/data.php, y descargar el fichero correspondiente.
+4)Actualizar el fichero equipos.txt con la correspondencia entre los nombres de los equipos en flashcore y football-data.
+5)Adaptar el cmd partidos_liga_estaditicas.cmd y ejecutar.
